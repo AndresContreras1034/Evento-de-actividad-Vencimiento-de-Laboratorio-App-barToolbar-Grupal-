@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Botón 1: ver las características del envío -->
+    <item
+        android:id="@+id/action_caracteristicas"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/action_caracteristicas"
+        app:showAsAction="ifRoom" />
+
+    <!-- Botón 2: crear la notificación -->
+    <item
+        android:id="@+id/action_notificacion"
+        android:icon="@android:drawable/ic_popup_reminder"
+        android:title="@string/action_notificacion"
+        app:showAsAction="ifRoom" />
+</menu>

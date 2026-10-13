@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Solicitudes</string>
+    <string name="hint_titulo">Título de la solicitud</string>
+    <string name="hint_descripcion">Descripción (opcional)</string>
+    <string name="agregar">Agregar solicitud</string>
+    <string name="compartir">Compartir formulario</string>
+    <string name="error_titulo">Escribe un título</string>
+    <string name="eliminada">Solicitud eliminada</string>
+
+    <string name="action_caracteristicas">Características</string>
+    <string name="action_notificacion">Crear notificación</string>
+
+    <string name="detalle_formato">Título: %1$s\n\nDescripción: %2$s\n\nTotal de solicitudes: %3$d\nAtendidas: %4$d\nPendientes: %5$d</string>
+
+    <string name="compartir_asunto">Solicitud de actividad formativa</string>
+    <string name="compartir_formato">Solicitud: %1$s\nDescripción: %2$s</string>
+    <string name="compartir_con">Compartir con</string>
+
+    <string name="canal_nombre">Solicitudes</string>
+    <string name="notif_titulo">Solicitudes pendientes</string>
+    <string name="notif_texto">Tienes %1$d solicitudes por atender</string>
+    <string name="permiso_denegado">Permiso de notificaciones denegado</string>
+</resources>
